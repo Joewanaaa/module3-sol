@@ -1,0 +1,15 @@
+{
+  "name": "module3-sol",
+  "version": "1.0.0",
+  "description": "Module 3 Coursera Assignment Solution\r Module 3 Coding Assignment\r Coursera course: HTML, CSS, and Javascript for Web Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
